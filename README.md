@@ -1,6 +1,6 @@
 ### Hi there, I'm Tainah 👋
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile! :octocat:
 
 #### About me:
 ```texto
