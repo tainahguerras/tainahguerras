@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Tainah 👋
 
+Welcome to my GitHub profile! 
+
+#### About me:
+```texto
+Seu texto aqui
 <!--
 **tainahguerras/tainahguerras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
