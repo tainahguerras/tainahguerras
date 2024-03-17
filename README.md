@@ -14,10 +14,10 @@ Welcome to my GitHub profile!
 - [PostgreSQL Database Creation and Exploratory Analysis (SQL and Python)](https://github.com/tainahguerras/SQL-ADA-Santander)
 - [Exploratory Data Analysis (EDA) (Python)](https://github.com/tainahguerras/AnaliseExploratoria-ADA-Santander)
 
-####Languages and Tools:
+#### Languages and Tools:
 
 
-####Conect with me!
+#### Conect with me!
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tainahguerra){:height="30px" width="40px"}
 
 
