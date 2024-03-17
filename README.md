@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/microsoft-powerpoint-2013-logo-52B688AEC4-seeklogo.com.png" alt="powerpoint" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="40" height="40"/> </a> 
 
-#### Conect with me!
+#### Connect with me!
 <a href="https://www.linkedin.com/in/tainahguerra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
 
 
