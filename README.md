@@ -7,7 +7,7 @@ Welcome to my GitHub profile! :octocat:
 👩🏻‍💻 Currently pursuing a degree in Data Science (UFMS - Brazil)
 🎓 Bachelor's degree in Biological Sciences (UFPE - Brazil)
 🎯 My aim is to apply my data science expertise to tackle real-world challenges and create impactful solutions
-😊 Fun facts: I have pet rats and I can draw (poorly), skateboard and solve a Rubik's cube in one minute
+😊 Fun facts: I can draw (poorly), skateboard and solve a Rubik's cube in one minute
 ```
 
 ### Projects:
