@@ -12,7 +12,7 @@ Welcome to my GitHub profile! :octocat:
 
 ### Projects:
 - [PostgreSQL Database Creation and Exploratory Analysis (SQL and Python)](https://github.com/tainahguerras/SQL-ADA-Santander)
-- [Exploratory Data Analysis and Statistics (Python)](https://github.com/tainahguerras/AnaliseExploratoria-ADA-Santander)
+- [Exploratory Data Analysis and Statistics (Python)](https://github.com/tainahguerras/AnaliseExploratoria-ADA-Santander](https://github.com/tainahguerras/Estatistica-ADA-Santander))
 
 ### Languages and Tools:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
