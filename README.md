@@ -11,6 +11,7 @@ Welcome to my GitHub profile! :octocat:
 ```
 
 ### Projects:
+- [Machine Learning Classification problem with KNN and Random Forest (Python and scikit learn)](https://github.com/tainahguerras/ML-ADA-Santander)
 - [PostgreSQL Database Creation and Exploratory Analysis (SQL and Python)](https://github.com/tainahguerras/SQL-ADA-Santander)
 - [Exploratory Data Analysis and Statistics (Python)](https://github.com/tainahguerras/Estatistica-ADA-Santander)
 
