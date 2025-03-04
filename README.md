@@ -7,7 +7,7 @@ Bem-vinde ao meu perfil do github! :octocat:
 
 🎓 Graduada em Ciências Biológicas na UFPE 
 
-🎯 Meu objetivo é aplicar minha experiência em ciência de dados para enfrentar desafios do mundo real e criar soluções impactantes
+🎯 Meu objetivo é aplicar minha experiência em dados para enfrentar desafios do mundo real e criar soluções impactantes
 
 😊 Extras: Eu desenho (mal), ando de skate (razoável) e consigo resolver um cubo mágico em 1 minuto
 
