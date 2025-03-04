@@ -1,21 +1,21 @@
-### Hi there, I'm Tainah 👋
+### Oie, Tainah aqui 👋
 
-Welcome to my GitHub profile! :octocat:
+Bem-vinde ao meu perfil do github! :octocat:
 
-### About me:
-```texto
-👩🏻‍💻 Currently pursuing a degree in Data Science (UFMS - Brazil)
-🎓 Bachelor's degree in Biological Sciences (UFPE - Brazil)
-🎯 My aim is to apply my data science expertise to tackle real-world challenges and create impactful solutions
-😊 Fun facts: I can draw (poorly), skateboard and solve a Rubik's cube in one minute
+### Sobre mim:
+```
+👩🏻‍💻 Graduanda em Ciência de Dados na UFMS
+🎓 Graduada em Ciências Biológicas na UFPE 
+🎯 Meu objetivo é aplicar minha experiência em ciência de dados para enfrentar desafios do mundo real e criar soluções impactantes
+😊 Extras: Eu desenho (mal), ando de skata (também mal) e consigo resolver um cubo mágico em 1 minuto
 ```
 
-### Projects:
+### Projetos:
 - [Machine Learning classification problem with KNN and Random Forest (Python and scikit-learn)](https://github.com/tainahguerras/ML-ADA-Santander)
 - [PostgreSQL Database Creation and Exploratory Analysis (SQL and Python)](https://github.com/tainahguerras/SQL-ADA-Santander)
 - [Exploratory Data Analysis and Statistics (Python)](https://github.com/tainahguerras/Estatistica-ADA-Santander)
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
