@@ -3,12 +3,10 @@
 Bem-vinde ao meu perfil do github! :octocat:
 
 ### Sobre mim:
-```
 👩🏻‍💻 Graduanda em Ciência de Dados na UFMS
 🎓 Graduada em Ciências Biológicas na UFPE 
 🎯 Meu objetivo é aplicar minha experiência em ciência de dados para enfrentar desafios do mundo real e criar soluções impactantes
 😊 Extras: Eu desenho (mal), ando de skata (também mal) e consigo resolver um cubo mágico em 1 minuto
-```
 
 ### Projetos:
 - [Machine Learning classification problem with KNN and Random Forest (Python and scikit-learn)](https://github.com/tainahguerras/ML-ADA-Santander)
