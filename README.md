@@ -12,9 +12,10 @@ Bem-vinde ao meu perfil do github! :octocat:
 😊 Extras: Eu desenho (mal), ando de skate (razoável) e consigo resolver um cubo mágico em 1 minuto
 
 ### Projetos:
-- [Machine Learning classification problem with KNN and Random Forest (Python and scikit-learn)](https://github.com/tainahguerras/ML-ADA-Santander)
-- [PostgreSQL Database Creation and Exploratory Analysis (SQL and Python)](https://github.com/tainahguerras/SQL-ADA-Santander)
-- [Exploratory Data Analysis and Statistics (Python)](https://github.com/tainahguerras/Estatistica-ADA-Santander)
+- [Análise de dados do Programa de Monitoramento de Praias (Python e Power BI)](https://github.com/tainahguerras/PMP-Petrobras-Analise)
+- [Problema de classificação em Machine Learning com KNN e Random Forest (Python e scikit-learn)](https://github.com/tainahguerras/ML-ADA-Santander)  
+- [Criação de Banco de Dados PostgreSQL e Análise Exploratória (SQL e Python)](https://github.com/tainahguerras/SQL-ADA-Santander)  
+- [Análise Exploratória de Dados e Estatística (Python)](https://github.com/tainahguerras/Estatistica-ADA-Santander)
 
 ### Linguagens e Ferramentas:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="4%"/>  
